@@ -3,7 +3,12 @@
 
 # NLP Examples
 
-This project contains basic Natural Language Processing (NLP) examples with Python.
+This project contains basic Natural Language Processing (NLP) examples with Python. The examples are implemented as **Jupyter Notebooks** distributed in four categories:
+
+1. Introduction
+2. Datasets for NLP
+3. Statistical NLP
+4. Neural NLP
 
 ## About
 
